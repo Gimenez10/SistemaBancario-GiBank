@@ -1,7 +1,7 @@
 ## SistemaBancario-GiBank
 ### Projeto-1
 - Sistema bancário GiBank atualizado para V1.2
-- Nessa V1.2 do sistema bancario foi modificado manténdo as funcionalidades anteriores e implementando novas funções, separando as operações e modularizando o código. As novas funções estão divididas em funções para operações em conta tais como: (depositar, sacar, extrato) e funções para criar usuários e contas.
+- Nessa V1.2 do sistema bancário foi modificado manténdo as funcionalidades anteriores e implementando novas funções, separando as operações e modularizando o código. As novas funções estão divididas em funções para operações em conta tais como: (depositar, sacar, extrato) e funções para criar usuários e contas.
 
 
     - Criar Usuário ( Implementado para criar e alterare Inativar novos usuários)
